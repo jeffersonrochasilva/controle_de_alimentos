@@ -1,0 +1,158 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "title": "Coca-Cola",
+      "description": "Refrigerante com menos teor de açúcar.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY7l3QJqr0kNOZugjvW4sdo7vuVDDFyB1f5A&s"
+    },
+    {
+      "id": "2",
+      "title": "Arroz Tio",
+      "description": "O arroz com a maior fonte de carboidrato.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7fb7uzaK3noZ2rckIRCv3jusxZJJxAWaKsg&s"
+    },
+    {
+      "id": "c9a1",
+      "title": "Carne",
+      "description": "Fundamental na dieta",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5xv-d2IlGDLA2ikdzV2ZNTDX6luVLqXD7A&s"
+    }
+  ],
+  "list": [
+    {
+      "name": "Frozen Yogurt",
+      "calories": "159",
+      "fat": "6.0",
+      "carbs": "24",
+      "protein": "4.0",
+      "iron": "1",
+      "id": "d01d"
+    },
+    {
+      "name": "Ice cream sandwich",
+      "calories": "237",
+      "fat": "9.0",
+      "carbs": "37",
+      "protein": "4.3",
+      "iron": "1",
+      "id": "cd49"
+    },
+    {
+      "name": "Eclair",
+      "calories": "262",
+      "fat": "16.0",
+      "carbs": "23",
+      "protein": "6.0",
+      "iron": "7",
+      "id": "327a"
+    },
+    {
+      "name": "Cupcake",
+      "calories": "305",
+      "fat": "3.7",
+      "carbs": "67",
+      "protein": "4.3",
+      "iron": "8",
+      "id": "dc5b"
+    },
+    {
+      "name": "Gingerbread",
+      "calories": "356",
+      "fat": "16.0",
+      "carbs": "49",
+      "protein": "3.9",
+      "iron": "16",
+      "id": "c5f9"
+    },
+    {
+      "name": "Jelly bean",
+      "calories": "375",
+      "fat": "0.0",
+      "carbs": "94",
+      "protein": "0.0",
+      "iron": "0",
+      "id": "8d9e"
+    },
+    {
+      "name": "Lollipop",
+      "calories": "392",
+      "fat": "0.2",
+      "carbs": "98",
+      "protein": "0",
+      "iron": "2",
+      "id": "0412"
+    },
+    {
+      "name": "Honeycomb",
+      "calories": "408",
+      "fat": "3.2",
+      "carbs": "87",
+      "protein": "6.5",
+      "iron": "45",
+      "id": "d5d5"
+    },
+    {
+      "name": "Donut",
+      "calories": "452",
+      "fat": "25.0",
+      "carbs": "51",
+      "protein": "4.9",
+      "iron": "22",
+      "id": "a164"
+    },
+    {
+      "name": "KitKat",
+      "calories": "518",
+      "fat": "26.0",
+      "carbs": "65",
+      "protein": "7",
+      "iron": "6",
+      "id": "6393"
+    },
+    {
+      "id": "51bc",
+      "name": "coca cola",
+      "calories": "55",
+      "fat": "55",
+      "carbs": "55",
+      "protein": "55",
+      "iron": "55"
+    },
+    {
+      "id": "8f5f",
+      "name": "biscoito cream cracker",
+      "calories": "77",
+      "fat": "77",
+      "carbs": "77",
+      "protein": "77",
+      "iron": "77"
+    },
+    {
+      "id": "8f5b",
+      "name": "feijão ",
+      "calories": "50",
+      "fat": "0",
+      "carbs": "31",
+      "protein": "11",
+      "iron": "185"
+    }
+  ],
+  "users": [
+    {
+      "id": "3e4a",
+      "email": "teste@gmail.com",
+      "password": "mudar@1234"
+    },
+    {
+      "id": "8b9f",
+      "email": "teste2@gmail.com",
+      "password": "teste"
+    },
+    {
+      "id": "64be",
+      "email": "jeff@gmail.com",
+      "password": "teste1"
+    }
+  ]
+}
